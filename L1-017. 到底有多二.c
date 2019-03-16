@@ -12,6 +12,7 @@
    -13142223336
    输出样例：
    81.82%
+   change 
  */
 #include <stdio.h>
 #include <string.h>
